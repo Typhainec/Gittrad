@@ -16,12 +16,12 @@ public class App {
 
         choix = scan.nextInt();
 
-        if(choix == 1){
+
+        if (choix == 1) {
             System.out.println(vAnglais.getTraduction("Bonjour"));
-        }else{
+        } else {
             System.out.println(vBreton.getTraduction("Bonjour"));
         }
-
 
         //Fenetre f = new Fenetre();
         //f.setVisible(true);
