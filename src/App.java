@@ -23,6 +23,10 @@ public class App {
             System.out.println(vBreton.getTraduction("Bonjour"));
         }
 
+        if (choix != 1) {
+            System.out.println("Veuillez saisir un language");
+        }
+
         //Fenetre f = new Fenetre();
         //f.setVisible(true);
     }
