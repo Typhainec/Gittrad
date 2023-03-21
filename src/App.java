@@ -24,7 +24,7 @@ public class App {
         }
 
         if (choix != 1) {
-            System.out.println("Veuillez saisir un language");
+            System.out.println("Veuillez sélectionner une langue");
         }
 
         //Fenetre f = new Fenetre();
